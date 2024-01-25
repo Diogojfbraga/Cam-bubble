@@ -1,5 +1,7 @@
 # Background Subtraction Example with p5.js
 
+![image](https://github.com/Diogojfbraga/Cam-bubble/assets/67931865/e0649397-b13e-4ce3-9a58-ab16477c896d)
+
 This p5.js sketch demonstrates background subtraction using a live video feed.
 
 ## Setup
